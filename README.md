@@ -35,3 +35,6 @@ gem build nx-gather-proxy.gemspec
 # publish
 gem push nx-gather-proxy-0.1.0.gem
 ```
+
+## resources
+- https://proxygather.com/proxylist/country?c=China
