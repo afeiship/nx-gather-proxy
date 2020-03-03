@@ -13,7 +13,18 @@ gem 'nx-gather-proxy', git: 'git@github.com:afeiship/nx-gather-proxy.git'
 ```rb
 Nx::GatherProxy::fetch
 
-# hello world
+# results
+[
+    {
+        :ip=>"220.174.236.211", 
+        :port=>8091
+    }, 
+    {
+        :ip=>"122.5.107.172", 
+        :port=>9999
+    }
+    # ...
+]
 ```
 
 ## build/publish
