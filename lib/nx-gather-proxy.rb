@@ -1,2 +1,2 @@
-require "./nx/version"
-require "./nx/gather-proxy"
+require_relative "./nx/version"
+require_relative "./nx/gather-proxy"
